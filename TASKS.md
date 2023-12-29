@@ -1,7 +1,8 @@
 # Todo list
 
-## 05.12.2023
-- [ ] Filmik (Marek+Piotrek): https://docs.sciml.ai/DiffEqDocs/stable/
-- [ ] PDF do 3 rozdziału (Marek+Piotrek)
-- [x] Zaimplementowanie zmiennych i równań z rozdziału 2 (Marek)
-- [ ] Opisanie zmiennych i równań po pl i co bedzięmy robić do rozdziału 2 za latexem (Piotr)
+## 29.12.2023
+- [ ] Uzupełnić opis w main.ipynb o politykach uzupełnień (Marek)
+- [ ] Analityczne rozwiązanie z opisem funkcji gdzie tau > 0 (Marek)
+- [ ] Uzupełnić opis o numerycznym rozwiązaniu tau = 0 (Piotr)
+- [ ] Analitycznie rozwiązać z opisem tau = 0 (Piotr)
+- [ ] Numerycznie rozwiązać tau > 0 z opisem (Piotr)
